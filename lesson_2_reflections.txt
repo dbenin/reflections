@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 
 	It contains all the files that are gonna be committed.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	I can add to the staging area only the files I want.
+
