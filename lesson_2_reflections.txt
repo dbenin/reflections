@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	Hidden folder .git gets created, I need to use Git for my project.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	It contains all the files that are gonna be committed
+
