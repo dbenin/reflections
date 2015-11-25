@@ -4,5 +4,5 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-	It contains all the files that are gonna be committed
+	It contains all the files that are gonna be committed.
 
