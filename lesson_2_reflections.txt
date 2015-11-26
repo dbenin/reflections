@@ -18,3 +18,7 @@ How do the diagrams help you visualize the branch structure?
 
 	They show commits for each branch listed in the command.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Merging we get updates from both branches. In the diagram we can see the parent of commits in different branches.
+
