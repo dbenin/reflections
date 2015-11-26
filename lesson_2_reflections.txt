@@ -10,3 +10,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	I can add to the staging area only the files I want.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When I want to create a different version of the project or add experimental feature.
+
