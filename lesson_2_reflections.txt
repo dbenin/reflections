@@ -14,3 +14,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 	When I want to create a different version of the project or add experimental feature.
 
+How do the diagrams help you visualize the branch structure?
+
+	They show commits for each branch listed in the command.
+
