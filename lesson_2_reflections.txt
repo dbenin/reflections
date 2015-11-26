@@ -22,3 +22,6 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	Merging we get updates from both branches. In the diagram we can see the parent of commits in different branches.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Time saving but still need to resolve conflicts manually.
