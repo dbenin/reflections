@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 
   Branches are inside the same repository and create a different path in the case I want to experiment with my code, clones clone an online repository to a local one (or local to local) and forks clone an online repository to another online repository.
   
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  It's helpful when merging the updated local version with the online version if changed.
